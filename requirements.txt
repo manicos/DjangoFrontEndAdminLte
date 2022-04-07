@@ -1,0 +1,11 @@
+Django
+djangorestframework
+mysqlclient
+markdown
+django-filter
+requests
+django-cors-headers
+drf-spectacular
+djangorestframework-api-key
+whitenoise
+django-environ
